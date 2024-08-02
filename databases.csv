@@ -1,0 +1,13 @@
+Name,Public?,URL,Maintainer,Subject,Primary data type,Contributor model
+Paleobiology Database,T,,,Paleontology,Fossil taxon occurrence,Member
+Neotoma DB,T,,,Paleoecology,Fossil collection,Member
+Open Context,T,,,Archeology,,Aggregator
+tDAR,T,,,Archeology,,Aggregator
+CARD,T,,,Archeology,Radiocarbon date,Private
+Paleosize,F,,,Paleoecology,Fossil taxon body size estimate,Private
+iSamples,F,,,,Sample,Aggregator
+iDigBio,T,,,Organismal biology,Specimen,Member
+GBIF,T,,,Organismal biology,Taxon occurrence,Aggregator
+xDD,T,,,Scientific literature,Publication,Automated
+"The Kentucky, Ohio and West Virginia Radiocarbon Database",T,,,Archeology,Radiocarbon date,Private
+UMORF,T,,,Paleontology,Specimen,Institutional
