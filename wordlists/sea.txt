@@ -1,0 +1,19 @@
+wordlist: Sea ____
+
+angel
+biscuit
+cucumber
+dragon
+fan
+gooseberry
+hare
+horse
+lemon
+lettuce
+mouse
+pen
+pig
+spider
+star
+urchin
+wasp

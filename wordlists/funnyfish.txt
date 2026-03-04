@@ -1,0 +1,11 @@
+wordlist: fish common names that sound like nonsense words
+
+blenny
+tench
+goby
+loach
+crappie
+turbot
+burbot
+ling
+bream
